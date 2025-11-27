@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/13efeef9ec7d4463a8f15b377bb29e6e/artifacts
+end_time: 1764205556639
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 13efeef9ec7d4463a8f15b377bb29e6e
+run_name: ambitious-eel-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205556303
+status: 3
+tags: []
+user_id: santiago

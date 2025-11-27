@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/8515205e4f634efe8625be033d3de2f9/artifacts
+end_time: 1764203618556
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 8515205e4f634efe8625be033d3de2f9
+run_name: upset-donkey-815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203618354
+status: 3
+tags: []
+user_id: santiago

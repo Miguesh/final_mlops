@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/6927b48f7a784e13a10b02fd5922a6f1/artifacts
+end_time: 1764203631413
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 6927b48f7a784e13a10b02fd5922a6f1
+run_name: delightful-frog-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203630784
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/fb01b54f3e4b4035b6a6d4ef45176cb1/artifacts
+end_time: 1764205556841
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: fb01b54f3e4b4035b6a6d4ef45176cb1
+run_name: respected-fish-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205556641
+status: 3
+tags: []
+user_id: santiago

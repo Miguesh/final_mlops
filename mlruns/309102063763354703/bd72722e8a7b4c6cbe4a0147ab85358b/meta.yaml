@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/bd72722e8a7b4c6cbe4a0147ab85358b/artifacts
+end_time: 1764203627641
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: bd72722e8a7b4c6cbe4a0147ab85358b
+run_name: thoughtful-snail-490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203627027
+status: 3
+tags: []
+user_id: santiago

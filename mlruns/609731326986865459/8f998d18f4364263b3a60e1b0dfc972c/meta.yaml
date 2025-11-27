@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/8f998d18f4364263b3a60e1b0dfc972c/artifacts
+end_time: 1764205549831
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 8f998d18f4364263b3a60e1b0dfc972c
+run_name: lyrical-quail-251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205549731
+status: 3
+tags: []
+user_id: santiago

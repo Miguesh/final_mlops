@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/07f75051b68c47d3b52a5ba77fe2e972/artifacts
+end_time: 1764203610600
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 07f75051b68c47d3b52a5ba77fe2e972
+run_name: amusing-colt-816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203609852
+status: 3
+tags: []
+user_id: santiago

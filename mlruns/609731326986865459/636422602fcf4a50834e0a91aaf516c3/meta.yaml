@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/636422602fcf4a50834e0a91aaf516c3/artifacts
+end_time: 1764205549009
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 636422602fcf4a50834e0a91aaf516c3
+run_name: mysterious-boar-678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205548838
+status: 3
+tags: []
+user_id: santiago

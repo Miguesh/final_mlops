@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/ebff8307435d4918ae5611e9f6e1397a/artifacts
+end_time: 1764205557300
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: ebff8307435d4918ae5611e9f6e1397a
+run_name: amazing-wren-298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205557047
+status: 3
+tags: []
+user_id: santiago

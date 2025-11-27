@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/6e9168c4a7074d46a6f8f567429c9d36/artifacts
+end_time: 1764203617642
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 6e9168c4a7074d46a6f8f567429c9d36
+run_name: casual-smelt-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203617191
+status: 3
+tags: []
+user_id: santiago

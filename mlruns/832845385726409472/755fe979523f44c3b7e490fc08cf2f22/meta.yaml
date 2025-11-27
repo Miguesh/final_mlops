@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/755fe979523f44c3b7e490fc08cf2f22/artifacts
+end_time: 1764204617645
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 755fe979523f44c3b7e490fc08cf2f22
+run_name: overjoyed-cow-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204617528
+status: 3
+tags: []
+user_id: santiago

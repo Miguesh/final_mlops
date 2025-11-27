@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/90536ead6a0148c4b4f9f40f475a474b/artifacts
+end_time: 1764203625800
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 90536ead6a0148c4b4f9f40f475a474b
+run_name: charming-snail-127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203625192
+status: 3
+tags: []
+user_id: santiago

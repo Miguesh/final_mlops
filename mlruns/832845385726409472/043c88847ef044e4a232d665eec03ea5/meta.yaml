@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/043c88847ef044e4a232d665eec03ea5/artifacts
+end_time: 1764204624053
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 043c88847ef044e4a232d665eec03ea5
+run_name: luminous-tern-220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204623438
+status: 3
+tags: []
+user_id: santiago

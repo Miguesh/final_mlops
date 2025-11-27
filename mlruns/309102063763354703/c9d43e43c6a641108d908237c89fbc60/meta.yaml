@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/c9d43e43c6a641108d908237c89fbc60/artifacts
+end_time: 1764203619894
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: c9d43e43c6a641108d908237c89fbc60
+run_name: orderly-toad-713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203619435
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/04d6f39e7a7d405c85e140ab3babbdcb/artifacts
+end_time: 1764205478931
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 04d6f39e7a7d405c85e140ab3babbdcb
+run_name: charming-elk-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205478710
+status: 3
+tags: []
+user_id: santiago

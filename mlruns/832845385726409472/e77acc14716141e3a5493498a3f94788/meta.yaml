@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/e77acc14716141e3a5493498a3f94788/artifacts
+end_time: 1764205480817
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: e77acc14716141e3a5493498a3f94788
+run_name: omniscient-koi-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205480663
+status: 3
+tags: []
+user_id: santiago

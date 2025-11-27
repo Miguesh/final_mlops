@@ -1,0 +1,10 @@
+artifact_location: file:///home/santiago/final_mlops/mlruns/609731326986865459/models/m-852b41e5f4564e889a4e37d620021e4e/artifacts
+creation_timestamp: 1764205566410
+experiment_id: '609731326986865459'
+last_updated_timestamp: 1764205568389
+model_id: m-852b41e5f4564e889a4e37d620021e4e
+model_type: null
+name: best_random_forest
+source_run_id: 36f7fa230a79440fac2855ea721a5b9a
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/9b70f3dc676a4f689a2696193795f51a/artifacts
+end_time: 1764204626726
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 9b70f3dc676a4f689a2696193795f51a
+run_name: kindly-lamb-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204626055
+status: 3
+tags: []
+user_id: santiago

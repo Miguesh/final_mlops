@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/b0e58c2cc0fa40758f5d7b3886f3724a/artifacts
+end_time: 1764203620556
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: b0e58c2cc0fa40758f5d7b3886f3724a
+run_name: big-stoat-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203620444
+status: 3
+tags: []
+user_id: santiago

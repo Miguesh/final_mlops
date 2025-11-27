@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/ce4d551e293a41d58cfe44dc22fc3f48/artifacts
+end_time: 1764204619722
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: ce4d551e293a41d58cfe44dc22fc3f48
+run_name: dashing-koi-967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204619106
+status: 3
+tags: []
+user_id: santiago

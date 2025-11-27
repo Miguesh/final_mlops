@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/f32334e6220e4246844c514833358c35/artifacts
+end_time: 1764203612502
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: f32334e6220e4246844c514833358c35
+run_name: selective-asp-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203611707
+status: 3
+tags: []
+user_id: santiago

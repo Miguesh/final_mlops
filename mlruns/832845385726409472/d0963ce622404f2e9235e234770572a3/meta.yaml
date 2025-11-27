@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/d0963ce622404f2e9235e234770572a3/artifacts
+end_time: 1764204629890
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: d0963ce622404f2e9235e234770572a3
+run_name: shivering-frog-98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204629229
+status: 3
+tags: []
+user_id: santiago

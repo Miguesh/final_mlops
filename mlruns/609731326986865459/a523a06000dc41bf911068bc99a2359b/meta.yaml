@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/a523a06000dc41bf911068bc99a2359b/artifacts
+end_time: 1764205550707
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: a523a06000dc41bf911068bc99a2359b
+run_name: clean-smelt-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205550366
+status: 3
+tags: []
+user_id: santiago

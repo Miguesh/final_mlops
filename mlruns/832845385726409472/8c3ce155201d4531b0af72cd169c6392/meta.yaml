@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/8c3ce155201d4531b0af72cd169c6392/artifacts
+end_time: 1764204617269
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 8c3ce155201d4531b0af72cd169c6392
+run_name: adorable-cub-301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204617060
+status: 3
+tags: []
+user_id: santiago

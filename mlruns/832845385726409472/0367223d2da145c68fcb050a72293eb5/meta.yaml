@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/0367223d2da145c68fcb050a72293eb5/artifacts
+end_time: 1764204619105
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 0367223d2da145c68fcb050a72293eb5
+run_name: luminous-wolf-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204618463
+status: 3
+tags: []
+user_id: santiago

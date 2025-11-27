@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/9c71b0b0e52548a98b2e768c644ad3ad/artifacts
+end_time: 1764205474209
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 9c71b0b0e52548a98b2e768c644ad3ad
+run_name: delightful-shoat-108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205473930
+status: 3
+tags: []
+user_id: santiago

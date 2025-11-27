@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/dfb3b80522664cdea0995e57c6bf8ca6/artifacts
+end_time: 1764205560850
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: dfb3b80522664cdea0995e57c6bf8ca6
+run_name: funny-bird-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205560404
+status: 3
+tags: []
+user_id: santiago

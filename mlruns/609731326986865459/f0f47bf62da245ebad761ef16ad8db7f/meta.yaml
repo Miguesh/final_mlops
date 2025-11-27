@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/f0f47bf62da245ebad761ef16ad8db7f/artifacts
+end_time: 1764205565692
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: f0f47bf62da245ebad761ef16ad8db7f
+run_name: popular-kite-974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205565258
+status: 3
+tags: []
+user_id: santiago

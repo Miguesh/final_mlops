@@ -1,0 +1,6 @@
+artifact_location: file:///home/santiago/final_mlops/mlruns/309102063763354703
+creation_time: 1764203603778
+experiment_id: '309102063763354703'
+last_update_time: 1764203603778
+lifecycle_stage: active
+name: optuna_3_modelos_preprocesados

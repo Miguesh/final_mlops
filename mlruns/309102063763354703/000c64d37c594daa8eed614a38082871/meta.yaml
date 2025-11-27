@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/000c64d37c594daa8eed614a38082871/artifacts
+end_time: 1764203620015
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 000c64d37c594daa8eed614a38082871
+run_name: sassy-ape-404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203619896
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/dea7bdf1dc05424a885024f3e1a76116/artifacts
+end_time: 1764204603894
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: dea7bdf1dc05424a885024f3e1a76116
+run_name: loud-crab-867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204602312
+status: 3
+tags: []
+user_id: santiago

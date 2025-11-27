@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/0e573b5f73204b8b93947509b0127990/artifacts
+end_time: 1764205558174
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 0e573b5f73204b8b93947509b0127990
+run_name: brawny-perch-272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205557743
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/855fdba80bbc4146808226f6b1f4d75b/artifacts
+end_time: 1764204596384
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 855fdba80bbc4146808226f6b1f4d75b
+run_name: capable-crow-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204595927
+status: 3
+tags: []
+user_id: santiago

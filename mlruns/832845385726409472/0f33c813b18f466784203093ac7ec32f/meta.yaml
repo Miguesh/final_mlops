@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/0f33c813b18f466784203093ac7ec32f/artifacts
+end_time: 1764204609588
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 0f33c813b18f466784203093ac7ec32f
+run_name: skittish-mole-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204609346
+status: 3
+tags: []
+user_id: santiago

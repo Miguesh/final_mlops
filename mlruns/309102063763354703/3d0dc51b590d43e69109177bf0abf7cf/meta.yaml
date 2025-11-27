@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/3d0dc51b590d43e69109177bf0abf7cf/artifacts
+end_time: 1764203622046
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 3d0dc51b590d43e69109177bf0abf7cf
+run_name: adaptable-flea-687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203621758
+status: 3
+tags: []
+user_id: santiago

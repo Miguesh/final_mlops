@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/6b930192481e4d909a857d340366ae97/artifacts
+end_time: 1764203609233
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 6b930192481e4d909a857d340366ae97
+run_name: traveling-croc-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203608144
+status: 3
+tags: []
+user_id: santiago

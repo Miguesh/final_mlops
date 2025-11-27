@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/83a2be7fd7e14a7c88a8d555d5c28115/artifacts
+end_time: 1764205555956
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 83a2be7fd7e14a7c88a8d555d5c28115
+run_name: funny-gnu-73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205555785
+status: 3
+tags: []
+user_id: santiago

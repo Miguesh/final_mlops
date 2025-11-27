@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/f3f6ce60508e442db0cd67bf336eb834/artifacts
+end_time: 1764204609344
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: f3f6ce60508e442db0cd67bf336eb834
+run_name: gentle-lark-35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204608058
+status: 3
+tags: []
+user_id: santiago

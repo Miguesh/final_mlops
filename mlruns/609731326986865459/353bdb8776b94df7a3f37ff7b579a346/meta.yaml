@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/353bdb8776b94df7a3f37ff7b579a346/artifacts
+end_time: 1764205553647
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 353bdb8776b94df7a3f37ff7b579a346
+run_name: hilarious-shark-384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205553400
+status: 3
+tags: []
+user_id: santiago

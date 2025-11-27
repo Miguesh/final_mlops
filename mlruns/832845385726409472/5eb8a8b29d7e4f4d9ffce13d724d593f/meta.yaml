@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/5eb8a8b29d7e4f4d9ffce13d724d593f/artifacts
+end_time: 1764205480587
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 5eb8a8b29d7e4f4d9ffce13d724d593f
+run_name: sincere-dove-985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205480413
+status: 3
+tags: []
+user_id: santiago

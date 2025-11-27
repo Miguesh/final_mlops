@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/7ff4fac7d74548b3bc9cef6330c84764/artifacts
+end_time: 1764203613139
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 7ff4fac7d74548b3bc9cef6330c84764
+run_name: puzzled-tern-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203612504
+status: 3
+tags: []
+user_id: santiago

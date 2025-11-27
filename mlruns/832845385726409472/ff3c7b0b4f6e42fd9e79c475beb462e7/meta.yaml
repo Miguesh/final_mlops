@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/ff3c7b0b4f6e42fd9e79c475beb462e7/artifacts
+end_time: 1764205475242
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: ff3c7b0b4f6e42fd9e79c475beb462e7
+run_name: merciful-turtle-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205475143
+status: 3
+tags: []
+user_id: santiago

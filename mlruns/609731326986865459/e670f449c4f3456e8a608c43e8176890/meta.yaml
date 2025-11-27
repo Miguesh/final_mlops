@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/e670f449c4f3456e8a608c43e8176890/artifacts
+end_time: 1764205555078
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: e670f449c4f3456e8a608c43e8176890
+run_name: bittersweet-deer-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205554778
+status: 3
+tags: []
+user_id: santiago

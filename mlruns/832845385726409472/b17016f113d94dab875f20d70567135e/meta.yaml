@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/b17016f113d94dab875f20d70567135e/artifacts
+end_time: 1764205482579
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: b17016f113d94dab875f20d70567135e
+run_name: smiling-moth-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205482142
+status: 3
+tags: []
+user_id: santiago

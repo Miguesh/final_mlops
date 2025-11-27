@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/cf7e586e3e344fdaa5f449f355b85272/artifacts
+end_time: 1764203620104
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: cf7e586e3e344fdaa5f449f355b85272
+run_name: sincere-mink-688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203620017
+status: 3
+tags: []
+user_id: santiago

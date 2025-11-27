@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/0c40f8477236436db5678cb9491a206a/artifacts
+end_time: 1764205554618
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 0c40f8477236436db5678cb9491a206a
+run_name: industrious-owl-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205554515
+status: 3
+tags: []
+user_id: santiago

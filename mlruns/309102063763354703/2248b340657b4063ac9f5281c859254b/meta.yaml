@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/2248b340657b4063ac9f5281c859254b/artifacts
+end_time: 1764203621376
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 2248b340657b4063ac9f5281c859254b
+run_name: magnificent-frog-832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203621055
+status: 3
+tags: []
+user_id: santiago

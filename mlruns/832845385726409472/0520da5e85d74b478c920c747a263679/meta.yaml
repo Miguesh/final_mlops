@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/0520da5e85d74b478c920c747a263679/artifacts
+end_time: 1764204599899
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 0520da5e85d74b478c920c747a263679
+run_name: salty-slug-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204599320
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/124ab7c8a95b44328497c4f2ff6e8833/artifacts
+end_time: 1764205480411
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 124ab7c8a95b44328497c4f2ff6e8833
+run_name: brawny-mule-372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205480312
+status: 3
+tags: []
+user_id: santiago

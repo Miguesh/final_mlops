@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/bf98fe6533f1430da80a7817dbc2381f/artifacts
+end_time: 1764205485199
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: bf98fe6533f1430da80a7817dbc2381f
+run_name: wistful-quail-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205484765
+status: 3
+tags: []
+user_id: santiago

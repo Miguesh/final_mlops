@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/988dfe9f986c4a10a311e7f85765d0be/artifacts
+end_time: 1764203607204
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 988dfe9f986c4a10a311e7f85765d0be
+run_name: youthful-snipe-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203605847
+status: 3
+tags: []
+user_id: santiago

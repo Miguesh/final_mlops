@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/55a8b3d8a2cf4f2486bd6163723ad0ec/artifacts
+end_time: 1764205489600
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 55a8b3d8a2cf4f2486bd6163723ad0ec
+run_name: respected-moth-954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205489165
+status: 3
+tags: []
+user_id: santiago

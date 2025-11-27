@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/74b71d6658b7446ea7ef396c9106f6ef/artifacts
+end_time: 1764205554421
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 74b71d6658b7446ea7ef396c9106f6ef
+run_name: omniscient-smelt-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205554188
+status: 3
+tags: []
+user_id: santiago

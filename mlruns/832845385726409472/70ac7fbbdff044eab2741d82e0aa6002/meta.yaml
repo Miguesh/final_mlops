@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/70ac7fbbdff044eab2741d82e0aa6002/artifacts
+end_time: 1764205484327
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 70ac7fbbdff044eab2741d82e0aa6002
+run_name: receptive-hawk-805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205483893
+status: 3
+tags: []
+user_id: santiago

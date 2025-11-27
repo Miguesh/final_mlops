@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/ebd4036739cd44d6b5b8a49806c1099f/artifacts
+end_time: 1764205563468
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: ebd4036739cd44d6b5b8a49806c1099f
+run_name: nosy-deer-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205563033
+status: 3
+tags: []
+user_id: santiago

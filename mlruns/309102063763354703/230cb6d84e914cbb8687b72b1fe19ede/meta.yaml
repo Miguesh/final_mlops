@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/230cb6d84e914cbb8687b72b1fe19ede/artifacts
+end_time: 1764203626416
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 230cb6d84e914cbb8687b72b1fe19ede
+run_name: loud-lynx-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203625803
+status: 3
+tags: []
+user_id: santiago

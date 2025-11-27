@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/7a56cc2b06a147889c113766e8ed8f28/artifacts
+end_time: 1764205488717
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 7a56cc2b06a147889c113766e8ed8f28
+run_name: vaunted-cat-435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205488272
+status: 3
+tags: []
+user_id: santiago

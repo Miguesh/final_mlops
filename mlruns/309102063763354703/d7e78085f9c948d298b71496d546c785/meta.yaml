@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/d7e78085f9c948d298b71496d546c785/artifacts
+end_time: 1764203604494
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: d7e78085f9c948d298b71496d546c785
+run_name: silent-bug-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203603819
+status: 3
+tags: []
+user_id: santiago

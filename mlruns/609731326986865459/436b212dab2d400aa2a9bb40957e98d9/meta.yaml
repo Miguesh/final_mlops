@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/436b212dab2d400aa2a9bb40957e98d9/artifacts
+end_time: 1764205553155
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 436b212dab2d400aa2a9bb40957e98d9
+run_name: rogue-mink-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205553045
+status: 3
+tags: []
+user_id: santiago

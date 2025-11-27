@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/aff0f34d0ffb44d497d7d5fd3a83edd5/artifacts
+end_time: 1764205562596
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: aff0f34d0ffb44d497d7d5fd3a83edd5
+run_name: able-loon-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205562161
+status: 3
+tags: []
+user_id: santiago

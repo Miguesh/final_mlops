@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/a73148f463f94f6aa8afcdbba55fa4e8/artifacts
+end_time: 1764205482140
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: a73148f463f94f6aa8afcdbba55fa4e8
+run_name: chill-yak-835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205481704
+status: 3
+tags: []
+user_id: santiago

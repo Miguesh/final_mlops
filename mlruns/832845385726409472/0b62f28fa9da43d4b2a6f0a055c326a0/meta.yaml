@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/0b62f28fa9da43d4b2a6f0a055c326a0/artifacts
+end_time: 1764204605364
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 0b62f28fa9da43d4b2a6f0a055c326a0
+run_name: bouncy-mule-749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204603896
+status: 3
+tags: []
+user_id: santiago

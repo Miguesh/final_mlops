@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/bf5751982c734d84b8ff7d760b795682/artifacts
+end_time: 1764205477450
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: bf5751982c734d84b8ff7d760b795682
+run_name: aged-mule-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205477317
+status: 3
+tags: []
+user_id: santiago

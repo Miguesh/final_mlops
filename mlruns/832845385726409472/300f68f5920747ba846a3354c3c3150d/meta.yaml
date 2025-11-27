@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/300f68f5920747ba846a3354c3c3150d/artifacts
+end_time: 1764205479247
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 300f68f5920747ba846a3354c3c3150d
+run_name: capable-jay-5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205479036
+status: 3
+tags: []
+user_id: santiago

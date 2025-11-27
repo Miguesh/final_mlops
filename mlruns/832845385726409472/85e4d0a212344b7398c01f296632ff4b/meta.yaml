@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/85e4d0a212344b7398c01f296632ff4b/artifacts
+end_time: 1764205480020
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 85e4d0a212344b7398c01f296632ff4b
+run_name: fortunate-boar-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205479902
+status: 3
+tags: []
+user_id: santiago

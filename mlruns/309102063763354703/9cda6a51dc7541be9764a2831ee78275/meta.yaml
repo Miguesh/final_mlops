@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/9cda6a51dc7541be9764a2831ee78275/artifacts
+end_time: 1764203629543
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 9cda6a51dc7541be9764a2831ee78275
+run_name: overjoyed-elk-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203628920
+status: 3
+tags: []
+user_id: santiago

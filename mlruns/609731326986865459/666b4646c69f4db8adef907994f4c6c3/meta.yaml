@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/666b4646c69f4db8adef907994f4c6c3/artifacts
+end_time: 1764205566128
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 666b4646c69f4db8adef907994f4c6c3
+run_name: secretive-koi-286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205565693
+status: 3
+tags: []
+user_id: santiago

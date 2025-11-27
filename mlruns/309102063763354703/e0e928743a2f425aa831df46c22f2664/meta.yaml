@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/e0e928743a2f425aa831df46c22f2664/artifacts
+end_time: 1764203609850
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: e0e928743a2f425aa831df46c22f2664
+run_name: exultant-cod-97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203609235
+status: 3
+tags: []
+user_id: santiago

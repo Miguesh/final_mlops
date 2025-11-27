@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/f513c21e92774d6cbb291bb70e85f8c7/artifacts
+end_time: 1764204600528
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: f513c21e92774d6cbb291bb70e85f8c7
+run_name: treasured-goose-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204599901
+status: 3
+tags: []
+user_id: santiago

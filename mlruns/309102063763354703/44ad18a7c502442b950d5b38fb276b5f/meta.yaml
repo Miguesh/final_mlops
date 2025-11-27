@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/44ad18a7c502442b950d5b38fb276b5f/artifacts
+end_time: 1764203630782
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 44ad18a7c502442b950d5b38fb276b5f
+run_name: welcoming-wren-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203630156
+status: 3
+tags: []
+user_id: santiago

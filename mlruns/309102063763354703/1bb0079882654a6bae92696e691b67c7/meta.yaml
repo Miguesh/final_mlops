@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/1bb0079882654a6bae92696e691b67c7/artifacts
+end_time: 1764203611705
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 1bb0079882654a6bae92696e691b67c7
+run_name: crawling-hawk-799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203610602
+status: 3
+tags: []
+user_id: santiago

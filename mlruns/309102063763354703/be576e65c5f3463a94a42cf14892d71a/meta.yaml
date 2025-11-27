@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/be576e65c5f3463a94a42cf14892d71a/artifacts
+end_time: 1764203628272
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: be576e65c5f3463a94a42cf14892d71a
+run_name: amazing-newt-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203627643
+status: 3
+tags: []
+user_id: santiago

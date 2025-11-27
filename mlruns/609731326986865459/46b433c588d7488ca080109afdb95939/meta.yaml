@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/46b433c588d7488ca080109afdb95939/artifacts
+end_time: 1764205550099
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 46b433c588d7488ca080109afdb95939
+run_name: nebulous-ray-178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205549833
+status: 3
+tags: []
+user_id: santiago

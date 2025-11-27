@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/8999e265653a49a79e96e340ebce55b7/artifacts
+end_time: 1764204612235
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 8999e265653a49a79e96e340ebce55b7
+run_name: thundering-wren-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204610891
+status: 3
+tags: []
+user_id: santiago

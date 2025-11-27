@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/d48516ec816f484ebe5d45963e1eb0c1/artifacts
+end_time: 1764205558610
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: d48516ec816f484ebe5d45963e1eb0c1
+run_name: able-fowl-235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205558176
+status: 3
+tags: []
+user_id: santiago

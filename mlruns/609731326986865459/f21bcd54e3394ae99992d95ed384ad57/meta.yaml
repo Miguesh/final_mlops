@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/f21bcd54e3394ae99992d95ed384ad57/artifacts
+end_time: 1764205549264
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: f21bcd54e3394ae99992d95ed384ad57
+run_name: secretive-shoat-38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205549101
+status: 3
+tags: []
+user_id: santiago

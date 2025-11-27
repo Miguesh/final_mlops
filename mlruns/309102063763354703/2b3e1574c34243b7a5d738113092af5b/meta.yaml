@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/2b3e1574c34243b7a5d738113092af5b/artifacts
+end_time: 1764203623922
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 2b3e1574c34243b7a5d738113092af5b
+run_name: welcoming-crow-178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203623294
+status: 3
+tags: []
+user_id: santiago

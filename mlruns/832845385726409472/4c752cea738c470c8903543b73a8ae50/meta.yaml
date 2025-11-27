@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/4c752cea738c470c8903543b73a8ae50/artifacts
+end_time: 1764204617058
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 4c752cea738c470c8903543b73a8ae50
+run_name: crawling-squid-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204616743
+status: 3
+tags: []
+user_id: santiago

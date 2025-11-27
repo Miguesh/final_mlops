@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/f25295f96ce64f7e800d44e24c96c7fc/artifacts
+end_time: 1764205483892
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: f25295f96ce64f7e800d44e24c96c7fc
+run_name: tasteful-wasp-534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205483458
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/749c075491994ab2b76b67da5ea3fa07/artifacts
+end_time: 1764205554777
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 749c075491994ab2b76b67da5ea3fa07
+run_name: inquisitive-grub-231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205554620
+status: 3
+tags: []
+user_id: santiago

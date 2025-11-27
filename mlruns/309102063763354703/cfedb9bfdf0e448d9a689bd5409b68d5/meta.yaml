@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/cfedb9bfdf0e448d9a689bd5409b68d5/artifacts
+end_time: 1764203605845
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: cfedb9bfdf0e448d9a689bd5409b68d5
+run_name: monumental-gnat-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203605003
+status: 3
+tags: []
+user_id: santiago

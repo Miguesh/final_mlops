@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/a1cafaefc6734c79a7544393ac5dac11/artifacts
+end_time: 1764204622189
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: a1cafaefc6734c79a7544393ac5dac11
+run_name: brawny-grub-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204621575
+status: 3
+tags: []
+user_id: santiago

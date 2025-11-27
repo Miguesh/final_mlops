@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/6266280b41d6400ab9f9e4c1b3f2747f/artifacts
+end_time: 1764203618046
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 6266280b41d6400ab9f9e4c1b3f2747f
+run_name: mercurial-slug-96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203617931
+status: 3
+tags: []
+user_id: santiago

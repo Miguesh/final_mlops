@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/abc4f7267e194d96b5e7ee0f62544adc/artifacts
+end_time: 1764205478238
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: abc4f7267e194d96b5e7ee0f62544adc
+run_name: nimble-boar-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205478142
+status: 3
+tags: []
+user_id: santiago

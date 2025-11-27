@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/e1cad2fb4e214e1c869807f96e0f4b65/artifacts
+end_time: 1764203621756
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: e1cad2fb4e214e1c869807f96e0f4b65
+run_name: angry-dove-376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203621378
+status: 3
+tags: []
+user_id: santiago

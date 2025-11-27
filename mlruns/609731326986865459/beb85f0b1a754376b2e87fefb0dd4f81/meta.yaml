@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/beb85f0b1a754376b2e87fefb0dd4f81/artifacts
+end_time: 1764205552433
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: beb85f0b1a754376b2e87fefb0dd4f81
+run_name: stylish-owl-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205552157
+status: 3
+tags: []
+user_id: santiago

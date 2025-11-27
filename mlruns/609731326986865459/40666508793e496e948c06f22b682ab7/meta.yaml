@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/40666508793e496e948c06f22b682ab7/artifacts
+end_time: 1764205559047
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 40666508793e496e948c06f22b682ab7
+run_name: casual-ant-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205558611
+status: 3
+tags: []
+user_id: santiago

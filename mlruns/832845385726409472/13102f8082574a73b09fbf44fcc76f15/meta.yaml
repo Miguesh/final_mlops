@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/13102f8082574a73b09fbf44fcc76f15/artifacts
+end_time: 1764204618184
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 13102f8082574a73b09fbf44fcc76f15
+run_name: legendary-hound-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204617858
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/e121ae14b13748c1ae72df4b58507bd2/artifacts
+end_time: 1764205489163
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: e121ae14b13748c1ae72df4b58507bd2
+run_name: funny-shad-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205488719
+status: 3
+tags: []
+user_id: santiago

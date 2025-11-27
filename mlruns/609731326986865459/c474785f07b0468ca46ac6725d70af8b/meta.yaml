@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/c474785f07b0468ca46ac6725d70af8b/artifacts
+end_time: 1764205563916
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: c474785f07b0468ca46ac6725d70af8b
+run_name: awesome-trout-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205563469
+status: 3
+tags: []
+user_id: santiago

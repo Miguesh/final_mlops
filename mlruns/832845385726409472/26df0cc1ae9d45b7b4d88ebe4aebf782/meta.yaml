@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/26df0cc1ae9d45b7b4d88ebe4aebf782/artifacts
+end_time: 1764205474683
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 26df0cc1ae9d45b7b4d88ebe4aebf782
+run_name: victorious-conch-113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205474417
+status: 3
+tags: []
+user_id: santiago

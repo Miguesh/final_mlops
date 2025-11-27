@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/d9e1f904f7c14278a16f636018154d6c/artifacts
+end_time: 1764205559937
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: d9e1f904f7c14278a16f636018154d6c
+run_name: rebellious-trout-837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205559493
+status: 3
+tags: []
+user_id: santiago

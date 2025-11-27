@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/5da78cd8e72e45549adebcb264c0d113/artifacts
+end_time: 1764205554001
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 5da78cd8e72e45549adebcb264c0d113
+run_name: masked-shad-721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205553854
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/81c0bb82cf894ef3837d97ff9d85dc02/artifacts
+end_time: 1764204613574
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 81c0bb82cf894ef3837d97ff9d85dc02
+run_name: redolent-wolf-150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204613336
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/bee11a675e2243ae94a233c4819793f5/artifacts
+end_time: 1764205556302
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: bee11a675e2243ae94a233c4819793f5
+run_name: zealous-fish-547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205555958
+status: 3
+tags: []
+user_id: santiago

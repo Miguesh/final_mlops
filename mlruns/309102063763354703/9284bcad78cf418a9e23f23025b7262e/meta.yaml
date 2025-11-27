@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/9284bcad78cf418a9e23f23025b7262e/artifacts
+end_time: 1764203618851
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 9284bcad78cf418a9e23f23025b7262e
+run_name: blushing-loon-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203618690
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/6dbe9ff812ae4efebbb9542b7820d021/artifacts
+end_time: 1764205548837
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 6dbe9ff812ae4efebbb9542b7820d021
+run_name: monumental-steed-281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205548510
+status: 3
+tags: []
+user_id: santiago

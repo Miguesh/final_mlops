@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/29a79c8d728346f1802cb2f805eda2f1/artifacts
+end_time: 1764205553398
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 29a79c8d728346f1802cb2f805eda2f1
+run_name: capable-fly-466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205553156
+status: 3
+tags: []
+user_id: santiago

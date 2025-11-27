@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/a1ef655821e746b08ffc1008f6f8fc7c/artifacts
+end_time: 1764203605001
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: a1ef655821e746b08ffc1008f6f8fc7c
+run_name: efficient-wren-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203604796
+status: 3
+tags: []
+user_id: santiago

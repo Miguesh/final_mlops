@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/71dd23c47efd47cfa3c629b8aef06f2f/artifacts
+end_time: 1764203622665
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 71dd23c47efd47cfa3c629b8aef06f2f
+run_name: valuable-midge-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203622048
+status: 3
+tags: []
+user_id: santiago

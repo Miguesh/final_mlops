@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/0a1e12a8372b4378ac92cf0b84c80a9d/artifacts
+end_time: 1764204613026
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 0a1e12a8372b4378ac92cf0b84c80a9d
+run_name: sassy-ray-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204612590
+status: 3
+tags: []
+user_id: santiago

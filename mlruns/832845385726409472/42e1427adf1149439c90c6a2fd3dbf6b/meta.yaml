@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/42e1427adf1149439c90c6a2fd3dbf6b/artifacts
+end_time: 1764205475950
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 42e1427adf1149439c90c6a2fd3dbf6b
+run_name: monumental-hare-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205475773
+status: 3
+tags: []
+user_id: santiago

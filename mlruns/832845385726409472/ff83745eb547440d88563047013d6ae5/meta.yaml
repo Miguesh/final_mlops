@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/ff83745eb547440d88563047013d6ae5/artifacts
+end_time: 1764205478140
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: ff83745eb547440d88563047013d6ae5
+run_name: bald-midge-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205478085
+status: 3
+tags: []
+user_id: santiago

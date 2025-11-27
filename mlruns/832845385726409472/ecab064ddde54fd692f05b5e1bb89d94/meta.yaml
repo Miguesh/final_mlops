@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/ecab064ddde54fd692f05b5e1bb89d94/artifacts
+end_time: 1764204597420
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: ecab064ddde54fd692f05b5e1bb89d94
+run_name: marvelous-crow-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204596386
+status: 3
+tags: []
+user_id: santiago

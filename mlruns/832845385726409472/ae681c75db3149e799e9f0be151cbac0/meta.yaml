@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/ae681c75db3149e799e9f0be151cbac0/artifacts
+end_time: 1764205485638
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: ae681c75db3149e799e9f0be151cbac0
+run_name: trusting-snake-336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205485200
+status: 3
+tags: []
+user_id: santiago

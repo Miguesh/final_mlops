@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/4258125552c648d5aa3a35e591ca0778/artifacts
+end_time: 1764203619433
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 4258125552c648d5aa3a35e591ca0778
+run_name: glamorous-foal-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203619237
+status: 3
+tags: []
+user_id: santiago

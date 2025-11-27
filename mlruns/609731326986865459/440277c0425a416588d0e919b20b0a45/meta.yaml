@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/440277c0425a416588d0e919b20b0a45/artifacts
+end_time: 1764205548509
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 440277c0425a416588d0e919b20b0a45
+run_name: trusting-carp-557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205548385
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/4122a7b049d74352acaf59642b700095/artifacts
+end_time: 1764205476359
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 4122a7b049d74352acaf59642b700095
+run_name: silent-lark-957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205476142
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/26ea2030b2be4c42a7ff389136672b72/artifacts
+end_time: 1764203615762
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 26ea2030b2be4c42a7ff389136672b72
+run_name: sedate-hawk-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203615022
+status: 3
+tags: []
+user_id: santiago

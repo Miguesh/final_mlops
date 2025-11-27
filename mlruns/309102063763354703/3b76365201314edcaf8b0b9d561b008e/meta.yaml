@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/3b76365201314edcaf8b0b9d561b008e/artifacts
+end_time: 1764203620756
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 3b76365201314edcaf8b0b9d561b008e
+run_name: fun-gull-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203620557
+status: 3
+tags: []
+user_id: santiago

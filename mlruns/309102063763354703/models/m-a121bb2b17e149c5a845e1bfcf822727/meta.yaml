@@ -1,0 +1,10 @@
+artifact_location: file:///home/santiago/final_mlops/mlruns/309102063763354703/models/m-a121bb2b17e149c5a845e1bfcf822727/artifacts
+creation_timestamp: 1764203640250
+experiment_id: '309102063763354703'
+last_updated_timestamp: 1764203641936
+model_id: m-a121bb2b17e149c5a845e1bfcf822727
+model_type: null
+name: best_svr
+source_run_id: 01ba85c6c96d4d7383475cdc05ba3fb3
+status: 2
+status_message: null

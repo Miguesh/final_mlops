@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/34c5fd94bfc146fba5825a8c01a3ab23/artifacts
+end_time: 1764205476141
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 34c5fd94bfc146fba5825a8c01a3ab23
+run_name: polite-boar-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205475952
+status: 3
+tags: []
+user_id: santiago

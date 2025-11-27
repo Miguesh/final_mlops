@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/42fbe54ea2824070b14131397e5ca5b2/artifacts
+end_time: 1764205486955
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 42fbe54ea2824070b14131397e5ca5b2
+run_name: legendary-boar-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205486518
+status: 3
+tags: []
+user_id: santiago

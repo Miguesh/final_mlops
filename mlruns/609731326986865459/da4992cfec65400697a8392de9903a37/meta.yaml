@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/da4992cfec65400697a8392de9903a37/artifacts
+end_time: 1764205548382
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: da4992cfec65400697a8392de9903a37
+run_name: popular-bug-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205548098
+status: 3
+tags: []
+user_id: santiago

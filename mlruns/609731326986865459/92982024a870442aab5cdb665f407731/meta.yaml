@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/92982024a870442aab5cdb665f407731/artifacts
+end_time: 1764205565256
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 92982024a870442aab5cdb665f407731
+run_name: gentle-slug-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205564812
+status: 3
+tags: []
+user_id: santiago

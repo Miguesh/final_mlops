@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/bd611d4a3a2f4900b1986d66ef6c1356/artifacts
+end_time: 1764204595925
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: bd611d4a3a2f4900b1986d66ef6c1356
+run_name: clean-penguin-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764204595163
+status: 3
+tags: []
+user_id: santiago

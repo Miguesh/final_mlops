@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/832845385726409472/550123bbb32347f885df4f1ba5f57629/artifacts
+end_time: 1764205480310
+entry_point_name: ''
+experiment_id: '832845385726409472'
+lifecycle_stage: active
+run_id: 550123bbb32347f885df4f1ba5f57629
+run_name: fun-frog-341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764205480117
+status: 3
+tags: []
+user_id: santiago

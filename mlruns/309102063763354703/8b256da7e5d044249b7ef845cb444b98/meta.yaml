@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/8b256da7e5d044249b7ef845cb444b98/artifacts
+end_time: 1764203617929
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 8b256da7e5d044249b7ef845cb444b98
+run_name: silent-kit-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203617644
+status: 3
+tags: []
+user_id: santiago

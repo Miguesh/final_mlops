@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/309102063763354703/330cbd22e41c4072a9a058e6c235e334/artifacts
+end_time: 1764203608142
+entry_point_name: ''
+experiment_id: '309102063763354703'
+lifecycle_stage: active
+run_id: 330cbd22e41c4072a9a058e6c235e334
+run_name: stylish-zebra-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764203607339
+status: 3
+tags: []
+user_id: santiago

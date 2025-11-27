@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/8ca05c9a24d7440996c75dcb9f526cd4/artifacts
+end_time: 1764209167959
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 8ca05c9a24d7440996c75dcb9f526cd4
+run_name: treasured-donkey-77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209167840
+status: 3
+tags: []
+user_id: santiago

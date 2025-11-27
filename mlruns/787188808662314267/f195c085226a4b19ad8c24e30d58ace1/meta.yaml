@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/f195c085226a4b19ad8c24e30d58ace1/artifacts
+end_time: 1764209176740
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: f195c085226a4b19ad8c24e30d58ace1
+run_name: peaceful-zebra-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209176297
+status: 3
+tags: []
+user_id: santiago

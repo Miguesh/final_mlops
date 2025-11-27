@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/41b60b6544d8422295e5f23e62050805/artifacts
+end_time: 1764209172175
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 41b60b6544d8422295e5f23e62050805
+run_name: caring-snake-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209171735
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/0781de82d2b34a9cbb5bdb87bb6e279c/artifacts
+end_time: 1764209119338
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 0781de82d2b34a9cbb5bdb87bb6e279c
+run_name: aged-quail-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209118904
+status: 3
+tags: []
+user_id: santiago

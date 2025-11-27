@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/946e7f8573f947c6a111b018c578f42e/artifacts
+end_time: 1764209171288
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 946e7f8573f947c6a111b018c578f42e
+run_name: peaceful-crane-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209170839
+status: 3
+tags: []
+user_id: santiago

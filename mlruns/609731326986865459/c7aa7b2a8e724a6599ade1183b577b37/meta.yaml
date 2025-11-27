@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/c7aa7b2a8e724a6599ade1183b577b37/artifacts
+end_time: 1764209111747
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: c7aa7b2a8e724a6599ade1183b577b37
+run_name: placid-calf-158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209111593
+status: 3
+tags: []
+user_id: santiago

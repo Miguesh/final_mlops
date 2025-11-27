@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/2affc88906764f5bb23caa45829bdceb/artifacts
+end_time: 1764209111460
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 2affc88906764f5bb23caa45829bdceb
+run_name: popular-roo-184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209111289
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/4b6d7336df434824927967d1984c74d2/artifacts
+end_time: 1764209113031
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 4b6d7336df434824927967d1984c74d2
+run_name: adorable-lynx-408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209112774
+status: 3
+tags: []
+user_id: santiago

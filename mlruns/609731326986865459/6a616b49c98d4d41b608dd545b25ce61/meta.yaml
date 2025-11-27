@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/6a616b49c98d4d41b608dd545b25ce61/artifacts
+end_time: 1764209121080
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 6a616b49c98d4d41b608dd545b25ce61
+run_name: gifted-mole-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209120647
+status: 3
+tags: []
+user_id: santiago

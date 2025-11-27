@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/871c08b6c578407eada5782c87c9b7ef/artifacts
+end_time: 1764209162011
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 871c08b6c578407eada5782c87c9b7ef
+run_name: crawling-slug-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209161766
+status: 3
+tags: []
+user_id: santiago

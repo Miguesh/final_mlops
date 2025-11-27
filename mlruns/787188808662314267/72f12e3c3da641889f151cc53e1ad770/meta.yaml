@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/72f12e3c3da641889f151cc53e1ad770/artifacts
+end_time: 1764209163573
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 72f12e3c3da641889f151cc53e1ad770
+run_name: defiant-donkey-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209163484
+status: 3
+tags: []
+user_id: santiago

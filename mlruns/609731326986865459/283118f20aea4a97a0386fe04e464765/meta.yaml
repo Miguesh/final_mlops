@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/283118f20aea4a97a0386fe04e464765/artifacts
+end_time: 1764209112773
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 283118f20aea4a97a0386fe04e464765
+run_name: funny-lark-710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209112441
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/99b8ab18fd1b45458e4beb54e7c988c5/artifacts
+end_time: 1764209168967
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 99b8ab18fd1b45458e4beb54e7c988c5
+run_name: silent-moth-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209168528
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/e4e339f38fb9401194c8c0609e3e106a/artifacts
+end_time: 1764209161764
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: e4e339f38fb9401194c8c0609e3e106a
+run_name: powerful-gnat-19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209161445
+status: 3
+tags: []
+user_id: santiago

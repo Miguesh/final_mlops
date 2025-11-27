@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/2e0ef027db8147ffa96861e1522c0648/artifacts
+end_time: 1764209166826
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 2e0ef027db8147ffa96861e1522c0648
+run_name: orderly-fowl-706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209166362
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/26e3b4faa3bc464ba32cc6af7ee69a60/artifacts
+end_time: 1764209174957
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 26e3b4faa3bc464ba32cc6af7ee69a60
+run_name: clean-fowl-50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209174499
+status: 3
+tags: []
+user_id: santiago

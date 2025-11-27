@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/625da8c2926642a7961663a544e7df79/artifacts
+end_time: 1764209123271
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 625da8c2926642a7961663a544e7df79
+run_name: masked-stoat-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209122835
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/6eec5358410a435c83591c7b182d5743/artifacts
+end_time: 1764209175406
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 6eec5358410a435c83591c7b182d5743
+run_name: bald-slug-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209174959
+status: 3
+tags: []
+user_id: santiago

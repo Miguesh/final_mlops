@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/8a458c7fa404486da1bdaa8d7a9e0926/artifacts
+end_time: 1764209177184
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 8a458c7fa404486da1bdaa8d7a9e0926
+run_name: valuable-shrike-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209176742
+status: 3
+tags: []
+user_id: santiago

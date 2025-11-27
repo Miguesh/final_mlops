@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/6b80980cd57b449ebf1310a6559852ea/artifacts
+end_time: 1764209183124
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 6b80980cd57b449ebf1310a6559852ea
+run_name: Entrenamiento Completo Preprocesado
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209161012
+status: 3
+tags: []
+user_id: santiago

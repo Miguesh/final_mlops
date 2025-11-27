@@ -105,7 +105,7 @@ def objective_svr(trial):
 # =====================================================
 #   EJECUTAR LOS 3 ESTUDIOS
 # =====================================================
-mlflow.set_experiment("Final MLOPS 2")
+mlflow.set_experiment("Final MLOPS 3")
 
 with mlflow.start_run(run_name="Entrenamiento Completo Preprocesado"):
 

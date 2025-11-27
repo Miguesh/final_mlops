@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/0619f36002e54db091f971e4d9f16cae/artifacts
+end_time: 1764209165733
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 0619f36002e54db091f971e4d9f16cae
+run_name: amazing-mink-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209165654
+status: 3
+tags: []
+user_id: santiago

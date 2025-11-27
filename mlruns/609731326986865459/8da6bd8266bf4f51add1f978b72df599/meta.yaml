@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/8da6bd8266bf4f51add1f978b72df599/artifacts
+end_time: 1764209115739
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 8da6bd8266bf4f51add1f978b72df599
+run_name: abrasive-trout-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209115537
+status: 3
+tags: []
+user_id: santiago

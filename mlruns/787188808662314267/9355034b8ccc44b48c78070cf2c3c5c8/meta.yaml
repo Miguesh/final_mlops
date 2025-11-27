@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/9355034b8ccc44b48c78070cf2c3c5c8/artifacts
+end_time: 1764209165302
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 9355034b8ccc44b48c78070cf2c3c5c8
+run_name: luminous-horse-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209165177
+status: 3
+tags: []
+user_id: santiago

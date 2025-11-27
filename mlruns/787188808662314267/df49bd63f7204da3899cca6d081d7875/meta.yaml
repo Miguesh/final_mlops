@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/df49bd63f7204da3899cca6d081d7875/artifacts
+end_time: 1764209176295
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: df49bd63f7204da3899cca6d081d7875
+run_name: blushing-bee-644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209175853
+status: 3
+tags: []
+user_id: santiago

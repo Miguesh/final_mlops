@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/26f994f89d5b493b9f06de94f3c1f8e9/artifacts
+end_time: 1764209163402
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 26f994f89d5b493b9f06de94f3c1f8e9
+run_name: beautiful-frog-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209163306
+status: 3
+tags: []
+user_id: santiago

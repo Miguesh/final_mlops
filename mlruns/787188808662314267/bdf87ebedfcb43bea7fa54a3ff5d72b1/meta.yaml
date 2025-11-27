@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/bdf87ebedfcb43bea7fa54a3ff5d72b1/artifacts
+end_time: 1764209167839
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: bdf87ebedfcb43bea7fa54a3ff5d72b1
+run_name: carefree-fox-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209167613
+status: 3
+tags: []
+user_id: santiago

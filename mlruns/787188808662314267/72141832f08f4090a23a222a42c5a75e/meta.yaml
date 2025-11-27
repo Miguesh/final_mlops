@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/72141832f08f4090a23a222a42c5a75e/artifacts
+end_time: 1764209174049
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 72141832f08f4090a23a222a42c5a75e
+run_name: colorful-finch-164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209173583
+status: 3
+tags: []
+user_id: santiago

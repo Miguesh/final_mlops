@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/4ec139c23fb044d080c0b269d64b5a33/artifacts
+end_time: 1764209165523
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 4ec139c23fb044d080c0b269d64b5a33
+run_name: hilarious-jay-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209165304
+status: 3
+tags: []
+user_id: santiago

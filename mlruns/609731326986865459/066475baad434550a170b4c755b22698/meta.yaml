@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/066475baad434550a170b4c755b22698/artifacts
+end_time: 1764209113277
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 066475baad434550a170b4c755b22698
+run_name: big-cod-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209113033
+status: 3
+tags: []
+user_id: santiago

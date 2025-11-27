@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/c3a3436a197043c6a3581ede638df367/artifacts
+end_time: 1764209121955
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: c3a3436a197043c6a3581ede638df367
+run_name: worried-ant-743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209121519
+status: 3
+tags: []
+user_id: santiago

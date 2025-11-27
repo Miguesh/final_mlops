@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/ca515f1355d04ef1824fce9790842359/artifacts
+end_time: 1764209162345
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: ca515f1355d04ef1824fce9790842359
+run_name: melodic-loon-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209162013
+status: 3
+tags: []
+user_id: santiago

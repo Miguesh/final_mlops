@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/b8831d51b0b24054ac5cc231aaaf1d04/artifacts
+end_time: 1764209164917
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: b8831d51b0b24054ac5cc231aaaf1d04
+run_name: masked-grub-496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209164843
+status: 3
+tags: []
+user_id: santiago

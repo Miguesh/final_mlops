@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/d5490695c0c34efea107cdf9ee85a4ed/artifacts
+end_time: 1764209167167
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: d5490695c0c34efea107cdf9ee85a4ed
+run_name: marvelous-quail-273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209166979
+status: 3
+tags: []
+user_id: santiago

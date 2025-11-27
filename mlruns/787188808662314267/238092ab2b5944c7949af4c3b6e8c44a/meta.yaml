@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/238092ab2b5944c7949af4c3b6e8c44a/artifacts
+end_time: 1764209172616
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 238092ab2b5944c7949af4c3b6e8c44a
+run_name: gaudy-cat-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209172176
+status: 3
+tags: []
+user_id: santiago

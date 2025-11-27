@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/c37fed1811964b139fa5e48ae0227fbc/artifacts
+end_time: 1764209109110
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: c37fed1811964b139fa5e48ae0227fbc
+run_name: respected-crow-269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209108821
+status: 3
+tags: []
+user_id: santiago

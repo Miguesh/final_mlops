@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/fec9178844454ee99c3d1f385632f1a0/artifacts
+end_time: 1764209113802
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: fec9178844454ee99c3d1f385632f1a0
+run_name: upbeat-finch-185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209113677
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/418e6f194eeb4cc6abc5a853a2ae4e49/artifacts
+end_time: 1764209161169
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 418e6f194eeb4cc6abc5a853a2ae4e49
+run_name: nosy-bee-800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209161020
+status: 3
+tags: []
+user_id: santiago

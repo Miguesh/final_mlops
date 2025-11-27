@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/b62f9b37a37148bebdd757b5cfcb9e61/artifacts
+end_time: 1764209110360
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: b62f9b37a37148bebdd757b5cfcb9e61
+run_name: resilient-bug-637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209110279
+status: 3
+tags: []
+user_id: santiago

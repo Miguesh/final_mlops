@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/06fe37323a9f4950ad535249ef5574dc/artifacts
+end_time: 1764209118028
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 06fe37323a9f4950ad535249ef5574dc
+run_name: useful-worm-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209117592
+status: 3
+tags: []
+user_id: santiago

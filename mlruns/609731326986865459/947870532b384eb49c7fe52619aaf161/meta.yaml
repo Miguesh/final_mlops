@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/947870532b384eb49c7fe52619aaf161/artifacts
+end_time: 1764209114175
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 947870532b384eb49c7fe52619aaf161
+run_name: marvelous-cod-279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209114084
+status: 3
+tags: []
+user_id: santiago

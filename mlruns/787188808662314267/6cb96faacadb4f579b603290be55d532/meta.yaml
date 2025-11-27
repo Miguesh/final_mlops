@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/6cb96faacadb4f579b603290be55d532/artifacts
+end_time: 1764209170381
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 6cb96faacadb4f579b603290be55d532
+run_name: agreeable-yak-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209169915
+status: 3
+tags: []
+user_id: santiago

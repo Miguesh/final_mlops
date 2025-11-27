@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/5d41255d6f02415e9ae9eb5c7128018f/artifacts
+end_time: 1764209175851
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 5d41255d6f02415e9ae9eb5c7128018f
+run_name: likeable-frog-402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209175408
+status: 3
+tags: []
+user_id: santiago

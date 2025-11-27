@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/3c202c39f1ac4277bf50eea0b36f3f71/artifacts
+end_time: 1764209169410
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 3c202c39f1ac4277bf50eea0b36f3f71
+run_name: resilient-robin-975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209168969
+status: 3
+tags: []
+user_id: santiago

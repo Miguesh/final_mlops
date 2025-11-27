@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/6d92ec127b754c5f93e9fd16e46156e6/artifacts
+end_time: 1764209163176
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 6d92ec127b754c5f93e9fd16e46156e6
+run_name: orderly-gnu-563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209162988
+status: 3
+tags: []
+user_id: santiago

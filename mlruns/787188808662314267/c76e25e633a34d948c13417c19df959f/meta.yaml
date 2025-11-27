@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/c76e25e633a34d948c13417c19df959f/artifacts
+end_time: 1764209170837
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: c76e25e633a34d948c13417c19df959f
+run_name: painted-snipe-130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209170383
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/1ff63f7526aa429c96a7efb8cae73098/artifacts
+end_time: 1764209163304
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 1ff63f7526aa429c96a7efb8cae73098
+run_name: incongruous-calf-87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209163178
+status: 3
+tags: []
+user_id: santiago

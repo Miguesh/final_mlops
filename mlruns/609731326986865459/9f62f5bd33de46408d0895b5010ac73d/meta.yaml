@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/9f62f5bd33de46408d0895b5010ac73d/artifacts
+end_time: 1764209119771
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 9f62f5bd33de46408d0895b5010ac73d
+run_name: fearless-foal-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209119339
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/687fcf57ec1c47f6bbb0a7000e7b7c03/artifacts
+end_time: 1764209111288
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 687fcf57ec1c47f6bbb0a7000e7b7c03
+run_name: youthful-mare-460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209110977
+status: 3
+tags: []
+user_id: santiago

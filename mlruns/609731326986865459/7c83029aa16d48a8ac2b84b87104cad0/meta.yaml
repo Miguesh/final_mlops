@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/7c83029aa16d48a8ac2b84b87104cad0/artifacts
+end_time: 1764209114953
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 7c83029aa16d48a8ac2b84b87104cad0
+run_name: auspicious-crow-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209114798
+status: 3
+tags: []
+user_id: santiago

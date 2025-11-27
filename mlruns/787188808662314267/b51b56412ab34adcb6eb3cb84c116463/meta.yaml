@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/b51b56412ab34adcb6eb3cb84c116463/artifacts
+end_time: 1764209163482
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: b51b56412ab34adcb6eb3cb84c116463
+run_name: wise-rook-998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209163404
+status: 3
+tags: []
+user_id: santiago

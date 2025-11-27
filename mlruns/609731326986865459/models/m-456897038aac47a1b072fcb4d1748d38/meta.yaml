@@ -1,0 +1,10 @@
+artifact_location: file:///home/santiago/final_mlops/mlruns/609731326986865459/models/m-456897038aac47a1b072fcb4d1748d38/artifacts
+creation_timestamp: 1764209126963
+experiment_id: '609731326986865459'
+last_updated_timestamp: 1764209128601
+model_id: m-456897038aac47a1b072fcb4d1748d38
+model_type: null
+name: best_xgboost
+source_run_id: 5f33858228e64c1ea2bf71149a88878a
+status: 2
+status_message: null

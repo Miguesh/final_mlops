@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/4ea0cf2482de43e89b4a3574a3269d87/artifacts
+end_time: 1764209169912
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 4ea0cf2482de43e89b4a3574a3269d87
+run_name: unique-yak-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209169412
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/2b7f1f5b9c4a4fc09d07b611803a4f31/artifacts
+end_time: 1764209163704
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 2b7f1f5b9c4a4fc09d07b611803a4f31
+run_name: flawless-flea-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209163575
+status: 3
+tags: []
+user_id: santiago

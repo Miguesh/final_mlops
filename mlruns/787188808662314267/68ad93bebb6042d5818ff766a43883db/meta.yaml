@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/68ad93bebb6042d5818ff766a43883db/artifacts
+end_time: 1764209164404
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 68ad93bebb6042d5818ff766a43883db
+run_name: shivering-duck-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209164291
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/bfa6a8c24aff45c0aa3102304e183a0d/artifacts
+end_time: 1764209108819
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: bfa6a8c24aff45c0aa3102304e183a0d
+run_name: monumental-hound-39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209108508
+status: 3
+tags: []
+user_id: santiago

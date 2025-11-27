@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/e5695edcf710470b92b319c27fc8f28e/artifacts
+end_time: 1764209110015
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: e5695edcf710470b92b319c27fc8f28e
+run_name: industrious-fox-180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209109786
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/5e62ed34c7ff45deb11ddffdf2df1155/artifacts
+end_time: 1764209122833
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 5e62ed34c7ff45deb11ddffdf2df1155
+run_name: shivering-conch-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209122396
+status: 3
+tags: []
+user_id: santiago

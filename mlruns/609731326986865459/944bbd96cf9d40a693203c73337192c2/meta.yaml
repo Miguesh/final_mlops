@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/944bbd96cf9d40a693203c73337192c2/artifacts
+end_time: 1764209123708
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 944bbd96cf9d40a693203c73337192c2
+run_name: languid-conch-601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209123273
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/9847d1b23465445db2423799e9523a63/artifacts
+end_time: 1764209167492
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 9847d1b23465445db2423799e9523a63
+run_name: invincible-doe-541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209167358
+status: 3
+tags: []
+user_id: santiago

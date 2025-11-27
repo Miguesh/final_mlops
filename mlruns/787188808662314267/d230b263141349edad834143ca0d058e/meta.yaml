@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/d230b263141349edad834143ca0d058e/artifacts
+end_time: 1764209161443
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: d230b263141349edad834143ca0d058e
+run_name: worried-trout-851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209161171
+status: 3
+tags: []
+user_id: santiago

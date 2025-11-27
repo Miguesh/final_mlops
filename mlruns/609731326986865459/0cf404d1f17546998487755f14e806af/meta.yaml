@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/0cf404d1f17546998487755f14e806af/artifacts
+end_time: 1764209110665
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 0cf404d1f17546998487755f14e806af
+run_name: flawless-stork-125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209110361
+status: 3
+tags: []
+user_id: santiago

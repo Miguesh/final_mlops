@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/38defed4e55345498c4d9e1dbc227c54/artifacts
+end_time: 1764209109603
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 38defed4e55345498c4d9e1dbc227c54
+run_name: bedecked-fish-493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209109506
+status: 3
+tags: []
+user_id: santiago

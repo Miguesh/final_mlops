@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/99b2638db7f54429ab7bad5080f42e7f/artifacts
+end_time: 1764209124146
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 99b2638db7f54429ab7bad5080f42e7f
+run_name: stately-ray-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209123710
+status: 3
+tags: []
+user_id: santiago

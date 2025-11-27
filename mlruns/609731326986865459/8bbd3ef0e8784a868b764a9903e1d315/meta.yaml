@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/8bbd3ef0e8784a868b764a9903e1d315/artifacts
+end_time: 1764209121517
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 8bbd3ef0e8784a868b764a9903e1d315
+run_name: bittersweet-dove-536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209121082
+status: 3
+tags: []
+user_id: santiago

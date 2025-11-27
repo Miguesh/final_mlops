@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/fa5f1887f55543598a3643eb7d02da8d/artifacts
+end_time: 1764209109784
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: fa5f1887f55543598a3643eb7d02da8d
+run_name: brawny-robin-836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209109605
+status: 3
+tags: []
+user_id: santiago

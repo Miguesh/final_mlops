@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/72fc41b742fd41cb87707d693e4ad525/artifacts
+end_time: 1764209164841
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 72fc41b742fd41cb87707d693e4ad525
+run_name: unruly-rat-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209164593
+status: 3
+tags: []
+user_id: santiago

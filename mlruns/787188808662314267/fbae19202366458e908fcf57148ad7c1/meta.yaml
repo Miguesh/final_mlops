@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/fbae19202366458e908fcf57148ad7c1/artifacts
+end_time: 1764209162776
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: fbae19202366458e908fcf57148ad7c1
+run_name: luxuriant-pig-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209162643
+status: 3
+tags: []
+user_id: santiago

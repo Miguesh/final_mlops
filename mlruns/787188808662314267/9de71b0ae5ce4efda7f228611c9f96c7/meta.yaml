@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/9de71b0ae5ce4efda7f228611c9f96c7/artifacts
+end_time: 1764209168077
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 9de71b0ae5ce4efda7f228611c9f96c7
+run_name: carefree-boar-799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209167961
+status: 3
+tags: []
+user_id: santiago

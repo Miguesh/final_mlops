@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/6de8f16503664e18837df48cdec3d5ba/artifacts
+end_time: 1764209164289
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 6de8f16503664e18837df48cdec3d5ba
+run_name: merciful-skunk-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209164188
+status: 3
+tags: []
+user_id: santiago

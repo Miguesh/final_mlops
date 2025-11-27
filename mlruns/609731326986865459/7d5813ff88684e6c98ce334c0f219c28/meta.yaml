@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/7d5813ff88684e6c98ce334c0f219c28/artifacts
+end_time: 1764209110277
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 7d5813ff88684e6c98ce334c0f219c28
+run_name: bemused-stoat-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209110017
+status: 3
+tags: []
+user_id: santiago

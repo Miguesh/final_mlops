@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/59bb46e4e4b347e2aeafe73f7fb52a69/artifacts
+end_time: 1764209171733
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 59bb46e4e4b347e2aeafe73f7fb52a69
+run_name: traveling-cat-157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209171289
+status: 3
+tags: []
+user_id: santiago

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/c4da81e0e78e4bf9beae2baf6aa56f27/artifacts
+end_time: 1764209174497
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: c4da81e0e78e4bf9beae2baf6aa56f27
+run_name: inquisitive-duck-263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209174051
+status: 3
+tags: []
+user_id: santiago

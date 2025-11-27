@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/4f968f96cd514590b7c1b5b26913c9d5/artifacts
+end_time: 1764209164186
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 4f968f96cd514590b7c1b5b26913c9d5
+run_name: smiling-grub-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209164010
+status: 3
+tags: []
+user_id: santiago

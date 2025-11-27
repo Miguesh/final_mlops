@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/82c1043e56c948f69ca9fd503e0b7e32/artifacts
+end_time: 1764209112438
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 82c1043e56c948f69ca9fd503e0b7e32
+run_name: bouncy-mink-337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209112115
+status: 3
+tags: []
+user_id: santiago

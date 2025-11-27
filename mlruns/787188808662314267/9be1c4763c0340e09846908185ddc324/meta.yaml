@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/787188808662314267/9be1c4763c0340e09846908185ddc324/artifacts
+end_time: 1764209167611
+entry_point_name: ''
+experiment_id: '787188808662314267'
+lifecycle_stage: active
+run_id: 9be1c4763c0340e09846908185ddc324
+run_name: adaptable-fly-331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209167494
+status: 3
+tags: []
+user_id: santiago

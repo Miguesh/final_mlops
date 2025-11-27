@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/e9beec2c69154ce9923fec4441c4dfc9/artifacts
+end_time: 1764209118903
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: e9beec2c69154ce9923fec4441c4dfc9
+run_name: gifted-fawn-384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209118470
+status: 3
+tags: []
+user_id: santiago

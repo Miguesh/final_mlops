@@ -1,0 +1,14 @@
+artifact_uri: file:///home/santiago/final_mlops/mlruns/609731326986865459/4af9e6b81ad44d87a9140922e5a38aff/artifacts
+end_time: 1764209114278
+entry_point_name: ''
+experiment_id: '609731326986865459'
+lifecycle_stage: active
+run_id: 4af9e6b81ad44d87a9140922e5a38aff
+run_name: capable-gnu-699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764209114176
+status: 3
+tags: []
+user_id: santiago
